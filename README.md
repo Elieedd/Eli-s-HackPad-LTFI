@@ -24,4 +24,8 @@ BOM
 4x M3x5x4 Heatset Inserts
 4x M3x16mm screws
 4x white blank DSA keycaps
-1x Case (2 3 printed parts)
+^Everything above is from the Hackpad Kit
+1x Case (2 3 printed parts) (Unknown Price, buying from legion)
+1x Soldering Kit $18
+1x PCB $10
+Total 28$
