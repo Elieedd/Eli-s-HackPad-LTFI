@@ -21,5 +21,7 @@ It will fit together with 4 screws.
 BOM
 1x Seeed Studio Xiao RP2040
 4x Cherry MX Switches
+4x M3x5x4 Heatset Inserts
 4x M3x16mm screws
 4x white blank DSA keycaps
+1x Case (2 3 printed parts)
