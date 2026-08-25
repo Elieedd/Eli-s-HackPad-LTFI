@@ -27,5 +27,6 @@ BOM
 ^Everything above is from the Hackpad Kit
 1x Case (2 3 printed parts) (Unknown Price, buying from legion)
 1x Soldering Kit $18
-1x PCB $10
-Total 28$
+1x PCB $4.00
+^Shipping for PCB $42.25 & Customs duties & taxes $1.40
+Total $65.65
